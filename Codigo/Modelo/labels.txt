@@ -1,0 +1,5 @@
+0 Plastico
+1 Papel
+2 Organico
+3 Aluminio
+4 Fondo
