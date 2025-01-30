@@ -1,3 +1,4 @@
 # Ignorar carpetas de datos y entorno virtual
 EV/
 dataset/
+venv/
