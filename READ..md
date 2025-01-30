@@ -57,9 +57,19 @@ Para ejecutar el sistema, utiliza:
 ```bash
 python Codigo/start.py
 ```
+## Como funciona el proyecto
+Dentro de la carpeta teacheable se encuentra el modelo de IA
+Se puede acceder por medio del siguiente enlace
+
+https://teachablemachine.withgoogle.com/train
+
+Entre otros archivos se puede cambiar la carpeta codigo/modelo/ donde estaran la IA entrenada. No cambiar el archivo label.txt solo el el keras_model.h5
+
 
 ## Contribuir
 Si deseas contribuir al proyecto, puedes realizar un fork, crear una nueva rama con tus cambios y enviar un pull request.
 
 ---
 Este documento se actualizará conforme evolucione el proyecto.
+
+
